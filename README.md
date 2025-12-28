@@ -2,15 +2,15 @@
 RP 2040 based devboard, inspired by the Raspberry Pi Pico and the Orpheus Pico
 
 ## Key Features
-RP2040 microcontroller with 16Mibit (2MB) flash
-Raspberry Pi Pico form factor compatiable
-USB-C connectivity
-Dedicated Reset switch
-PCB Touch button (GPIO24)
-All 0603 components where applicable for easier hand soldering
-Pin labels on both sides
-Exposed GPIO29 pin
-Hack Club art :)
+- RP2040 microcontroller with 16Mibit (2MB) flash
+- Raspberry Pi Pico form factor compatiable
+- USB-C connectivity
+- Dedicated Reset switch
+- PCB Touch button (GPIO24)
+- All 0603 components where applicable for easier hand soldering
+- Pin labels on both sides
+- Exposed GPIO29 pin
+- Hack Club art :)
 
 ## Schematics
 <img width="950" height="675" alt="image" src="https://github.com/user-attachments/assets/104166f9-ad10-416f-91e8-b69bd450a431" />
