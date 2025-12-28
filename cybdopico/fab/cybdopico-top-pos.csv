@@ -21,7 +21,7 @@ Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
 "R2","27R","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",114.395150,-65.180719,-90.000000,top
 "R3","5k1R","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",110.550000,-61.247500,-90.000000,top
 "R4","5k1R","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",108.990000,-61.247500,-90.000000,top
-"R5","27R","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",105.235000,-66.929862,-90.000000,top
+"R5","10kR","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",105.235000,-66.929862,-90.000000,top
 "R6","1kR","R_0603_1608Metric_Pad0.98x0.95mm_HandSolder",106.175000,-58.530000,0.000000,top
 "R7","1MR","R_0603_1608Metric",113.325000,-93.370000,0.000000,top
 "R8","1kR","R_0603_1608Metric",113.650000,-90.985000,90.000000,top
