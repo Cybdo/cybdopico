@@ -13,7 +13,7 @@ RP 2040 based devboard, inspired by the Raspberry Pi Pico and the Orpheus Pico
 - Hack Club art :)
 
 ## Schematics
-<img width="950" height="675" alt="image" src="https://github.com/user-attachments/assets/104166f9-ad10-416f-91e8-b69bd450a431" />
+<img width="995" height="711" alt="image" src="https://github.com/user-attachments/assets/e01d9c9e-f403-458c-86ee-816dcdca4987" />
 
 ## Board
 <img width="342" height="660" alt="image" src="https://github.com/user-attachments/assets/562cdbf3-6128-4454-934f-d3ae428c6fdd" />
